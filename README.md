@@ -4,7 +4,6 @@
 - 💞 I’m looking to collaborate on open-source web development projects to enhance my skills in React, Next.js, ...
  📫 How to reach me Hossein.saadatpour@gmail.com,
 -    www.linkedin.com/in/hossein-saadatpour-15107a228
-- 😄 Pronouns: He
 - ⚡ Fun fact: Swimming, Ping pong
 
 <!---
