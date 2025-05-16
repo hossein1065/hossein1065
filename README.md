@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Html, CSS, Javascript, MySQL, React, next.js, node.js
 - 💞 I’m looking to collaborate on open-source web development projects to enhance my skills in React, Next.js, ...
  📫 How to reach me Hossein.saadatpour@gmail.com,
--  https://emoji.slack-edge.com/T428UGBJA/linkedin/d99c9c50f550c6c6.png  www.linkedin.com/in/hossein-saadatpour-15107a228
+-    www.linkedin.com/in/hossein-saadatpour-15107a228
 - 😄 Pronouns: He
 - ⚡ Fun fact: Swimming, Ping pong
 
